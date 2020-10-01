@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Welcome to Spring Boot World, ${name} 
+	Welcome to Spring Boot World!!!  ID:${ obj.aid }, NAME:${ obj.aname }, LANGUAGE: ${ obj.lang }
 </body>
 </html>
