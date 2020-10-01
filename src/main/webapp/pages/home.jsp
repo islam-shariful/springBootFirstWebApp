@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Welcome to Spring Boot World, ${name}
+	Welcome to Spring Boot World, ${name} 
 </body>
 </html>
